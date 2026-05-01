@@ -6,7 +6,7 @@ Always leave adequate space around EKeys assets. Do not alter, combine, or use t
 ## Theme
 Theme variables, such as colours & corner radius. Primarily used on the website
 - Background Colour [Dark]: ` `
-- - Background Colour [Light]: `FFFFFF`
+- Background Colour [Light]: `FFFFFF`
 - Accent Colour: `8741FF`
 - Corner Radius: `6px`
 ## Assets
