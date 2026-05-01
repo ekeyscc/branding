@@ -5,7 +5,8 @@
 Always leave adequate space around EKeys assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All EKeys assets are protected by copyright.
 ## Theme
 Theme variables, such as colours & corner radius. Primarily used on the website
-- Background Colour: ` `
+- Background Colour [Dark]: ` `
+- - Background Colour [Light]: `FFFFFF`
 - Accent Colour: `8741FF`
 - Corner Radius: `6px`
 ## Assets
