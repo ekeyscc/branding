@@ -1,8 +1,8 @@
 # branding
 ## Naming
-**EKeys** — the brand name is only "EKeys". Do not use variations, abbreviations, and always capitalize the "E".
+**EmiKeys** — the brand name is only "EmiKeys". Do not use variations, abbreviations, and always capitalize the "E".
 ## Usage
-Always leave adequate space around EKeys assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All EKeys assets are protected by copyright.
+Always leave adequate space around EmiKeys assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All EmiKeys assets are protected by copyright.
 ## Theme
 Theme variables, such as colours & corner radius. Primarily used on the website
 - Background Colour [Dark]: ` `
